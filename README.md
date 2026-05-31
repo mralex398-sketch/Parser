@@ -19,7 +19,7 @@ This project requires **Python 3.x** and the `requests` library for communicatin
 
 1. Clone or download this repository into your dedicated project folder:
 ```bash
-git clone https://github.com
+git clone https://github.com/mralex398-sketch/
 cd LogAnalyzer
 ```
 
